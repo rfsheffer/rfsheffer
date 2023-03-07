@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am an interactive entertainment software engineer currently specializing in Virtual Reality. I work primarily with Unreal Engine and develop plugins and games for it.
+
+Check out my free Unreal Engine plugin [Ryan's Helpful Helpers](https://www.unrealengine.com/marketplace/en-US/product/25653d83f1f84775b09ed750659f9ca3) on the Unreal Marketplace or the open source repository here on Github!
+
+Also check out my Speech Recognition Plugin [Speech To Life](https://www.unrealengine.com/marketplace/en-US/product/1f24b827dd4c44a99aa2c9eda2d73479) 😄
+
+- 🔭 I’m currently working on [Consortium VR](https://store.steampowered.com/app/1428880/CONSORTIUM_VR/)
 <!--
 **rfsheffer/rfsheffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
