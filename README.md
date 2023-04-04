@@ -6,7 +6,7 @@ Check out my free Unreal Engine plugin [Ryan's Helpful Helpers](https://www.unre
 
 Also check out my Speech Recognition Plugin [Speech To Life](https://www.unrealengine.com/marketplace/en-US/product/1f24b827dd4c44a99aa2c9eda2d73479) 😄
 
-- 🔭 I’m currently working on [Consortium VR](https://store.steampowered.com/app/1428880/CONSORTIUM_VR/)
+- 🔭 I’m currently working on [Consortium VR PC](https://store.steampowered.com/app/1428880/CONSORTIUM_VR/) / [Consortium VR Oculus Quest 2](https://www.oculus.com/experiences/quest/7197109900314956/)
 <!--
 **rfsheffer/rfsheffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
